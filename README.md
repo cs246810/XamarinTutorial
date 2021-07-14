@@ -6,6 +6,6 @@
 
 原来早在flutter出现之前就已经存在了Xamarin，据说是微软的跨平台前端框架。然后我下载了visual studio for mac之后安装，但是并没看到有关web方面的支持：
 
-![](no_web_support.png)
+![](https://github.com/cs246810/XamarinTutorial/blob/master/no_web_support.png)
 
 可以看到没有支持web的，只有android, ios, macos。瞬间觉得没有意义了解下去。至于安装，居然要下载1.1G的文件，然后可以这么说这1.1G的文件肯定是通过压缩的，然后解压安装，那不得要占据磁盘空间10多个G？所以，想了想，还是决定放弃学习和了解Xamarin。
